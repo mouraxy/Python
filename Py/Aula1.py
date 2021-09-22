@@ -1,7 +1,7 @@
 #A função print imprime uma mensagem na tela do usuário
-print("Ola mundo!")
+print("Olá mundo!")
 
-#"" Indicam uma palavra (representação textual)
+#Com "" indica uma palavra (representação textual)
 print("23")
 
 #Sem "" indica o número (unidade)
@@ -15,3 +15,4 @@ print("Eu tenho",19,"anos")
 
 #Para pular linha utiliza-se \n
 print("Pulando \nlinha")
+
