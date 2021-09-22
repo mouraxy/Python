@@ -1,4 +1,5 @@
-#Para incluir comentários de uma linha utiliza-se #
+#Comentários
+#Para incluir comentários em uma linha utiliza-se #
 
 #Imprimindo uma mensagem aleatória (ou não)
 print("Remember Reach!")
