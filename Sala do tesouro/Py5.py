@@ -9,5 +9,5 @@ valorDigitado = input("Valor: ")
 valorDigitado = int(valorDigitado)
 
 #Ou como poderia ter sido usado desde o começo (para conseguir um valor inteiro)
-valorDigitado = int(input("Valor: "))
+valorDigitado = int(input("Valor: ")) 
 
