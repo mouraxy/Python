@@ -1,29 +1,35 @@
-#Variável booleana
+#Operações matemáticas
 
-#Variáveis Booleanas
-#Derivando do tipo inteiro, possuem dois valores constantes: True e False (verdadeiro e falso)
-#Utilizados como verificação
+#Declaração dos valores
+x = 10
+y = 5
 
-#Neste caso, o Python devolverá o valor da variável booleana como "True"
-VerdadeiroOuFalso = 14<15
-print(VerdadeiroOuFalso)
+#Adição (+) 
+Soma = x + y
+#Subtração (-)
+Subtracao = x - y 
+#Multiplicação (*)
+Multiplicacao = x * y
+#Divisão (/)
+Divisao = x/y
+#Divisão inteira(//)
+DivisaoInteira = x // y
+#Resto da divisão (%)
+Resto = x % y
+#Potênciação (**)
+Potenciacao = x * y
+print(Soma, Subtracao, Multiplicacao, Divisao, DivisaoInteira, Resto, Potenciacao )
 
-#Neste caso, o Python devolverá o valor da variável booleana como "False"
-VerdadeiroOuFalso = 15<14
-print(VerdadeiroOuFalso)
+#Operações matemáticas sequenciais
+#Os sinais de *, /, //, % e ** tem preferência em relação aos sinais de + e -
 
-#Mais um algoritmo com sua utilização:
-#Você pode consumir bebida alcólica (verdadeiro ou falso)?
-idade = int(input("Digite sua idade: "))
-podeBeber = idade >= 18
-print(podeBeber)
+#Utiliza-se o parênteses para priorizar
+OperacaoSequencial = (15+5)  * 3 // 60
+print (OperacaoSequencial)
 
-#O computador é construído para interpretar valores binários (0,1) 
-#True == 1 significa que está passando corrente
-#False == 0 significa que a corrente foi cortada
-True == 1
-False == 0
+#Pode-se utilizar operações na função print 
+print("Soma:", x, "+", y, "=", x+y)
+print("Subtração:", x, "-", y, "=", x-y)
+print("Multiplicação:", x, "*", y, "=", x*y)
+print("Divisão:", x, "/", y, "=", x/y)
 
-#Método de construção (função) bool transforma algum valor para "True"
-converteValor = bool(10)
-print(converteValor)
