@@ -1,5 +1,3 @@
-#Variável booleana
-
 #Variáveis Booleanas
 #Derivando do tipo inteiro, possuem dois valores constantes: True e False (verdadeiro e falso)
 #Utilizados como verificação
