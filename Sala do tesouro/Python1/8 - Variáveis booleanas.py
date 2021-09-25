@@ -1,6 +1,5 @@
 #Variáveis Booleanas
-#Derivando do tipo inteiro, possuem dois valores constantes: True e False (verdadeiro e falso)
-#Utilizados como verificação
+#Derivando do tipo inteiro, possuem dois valores constantes: True e False (verdadeiro e falso) e são utilizados como verificação
 
 #Neste caso, o Python devolverá o valor da variável booleana como "True"
 VerdadeiroOuFalso = 14 < 15
