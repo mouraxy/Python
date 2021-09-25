@@ -1,13 +1,15 @@
-#Função input
-#Imprime uma mensagem na tela, e aguarda informações a serem digitadas pelo usuário
-input("Digite alguma mensagem: ")
+#Atalhos na função print (maior legibilidade)
+Dia = 18
+Mes = 7
+Ano = 2001
 
-#Pode-se atribuir o valor digitado em uma variável, porém, o mesmo é salvo como uma string (formato de texto)
-valorDigitado = input("Valor: ")
+print("Data de nascimento do Felipe: ", Dia,"/", Mes,"/", Ano)
 
-#Então, converte-se o valor textual para um número inteiro (caso necessário)
-valorDigitado = int(valorDigitado)
+#Mesmo resultado, utilizando-se agora o % na função print (formato da variável)
+print("Data de nascimento do Felipe: %i/%i/%i" %(Dia, Mes, Ano))
 
-#Ou como poderia ter sido usado desde o começo (para conseguir um valor inteiro)
-valorDigitado = int(input("Valor: ")) 
+#Para inteiros --> %i ou %d
+#Para floats (números decimais) --> %f
+#Para strings (textos) --> %s
+
 
