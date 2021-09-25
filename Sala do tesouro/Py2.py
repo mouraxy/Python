@@ -1,10 +1,19 @@
-#Comentários
-#Para incluir comentários em uma linha utiliza-se #
+#Função print 
+#Imprime uma mensagem na tela do usuário
+print("Olá mundo!")
 
-#Imprimindo uma mensagem aleatória (ou não)
-print("Remember Reach!")
+#Com "" indica uma palavra (representação textual)
+print("23")
 
-"""
-Para incluir comentários de mais de   
-uma linha utiliza-se três aspas na abertura e no fechamento
-"""
+#Sem "" indica o número (unidade)
+print(23)
+
+#A vírgula indica a adição de mais elementos
+print("Essa é a aula", 1)
+
+#Os espaços são colocados automaticamente (maior legibilidade)
+print("Eu tenho",19,"anos")
+
+#Para pular linha utiliza-se \n
+print("Pulando \nlinha")
+
