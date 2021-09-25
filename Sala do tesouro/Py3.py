@@ -6,7 +6,7 @@
 Idade = 19 
 Meses = 10
 
-#Pode-se ser utilizada em diversas situações
+#Pode-se ser utilizada em diversas situações:
 print("Eu tenho", Idade, "anos e", Meses, "meses")
 
 #É possível atribuir a uma variável o valor de outra variável
