@@ -1,6 +1,6 @@
 #Listas: função len e método count
 
-#Função len calcula a quantidade de elementos em uma lista - len(nome da lista)
+#Função len calcula a quantidade total de elementos em uma lista - len(nome da lista)
 lista = [1, 2, 3, 3, 3, 3, 3]
 len(lista)
 
