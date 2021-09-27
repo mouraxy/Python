@@ -18,9 +18,10 @@ for contador in range(1, qtdeNotas + 1):
 media = nota/qtdeNotas
 
 #O %.(valor)f define o número de casas decimais depois da vírgula
-print("\nSua média final é: %.2f\n" %media)
+print("\nSua média final é: %.2f" %media)
 
-
+#O %(valor).(valor)f define a quantidade de espaços vazios anteriores ao número impresso (além das casas decimais do tópico acima)
+print("Sua média final com espaços é: %10.2f\n" %media)
 
 
 
