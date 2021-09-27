@@ -6,6 +6,3 @@ len(lista)
 
 #Método count define quantas vezes um determinado valor aparece em uma lista - nome da lista.count(valor a ser procurado)
 lista.count(3)
-
-
-
