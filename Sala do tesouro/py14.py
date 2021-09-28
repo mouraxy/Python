@@ -13,6 +13,3 @@ for contador in range(0, 10, 2):
 #É possível criar uma sequência decrescente:
 for contador in range(10, 0, -1):
     print ("Contagem regressiva: ", contador)
-
-
-
