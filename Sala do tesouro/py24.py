@@ -12,7 +12,7 @@ def argumentosNãoDefinidos(num1, *valores):
 argumentosNãoDefinidos(1, 2, 3, 4, "Olá, tudo bem?")
                           #------- *valores-------
 
-#Desta forma, pode-se usar a quantidade de argumentos que desejar
+#Desta forma, pode-se utilizar a quantidade de argumentos que desejar
 
 
 #Argumentos pré definidos: é possível inserir valores para os argumentos (geralmente utilizado quando tem valores fixos):
