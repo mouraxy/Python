@@ -2,7 +2,7 @@
 
 #Criação: def declara que uma função será construída 
 #Entre (): argumentos da função - valores que a função pode receber
-#Return: indica o fim da função e o que será retornado
+#Return: indica o fim da função e o que será retornado 
 def nomeDaFunção(arg1, arg2):
     print("Executa algo...")
     return 
