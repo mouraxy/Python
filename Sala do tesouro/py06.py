@@ -20,8 +20,8 @@ Resto = x % y
 Potenciacao = x * y
 print(Soma, Subtracao, Multiplicacao, Divisao, DivisaoInteira, Resto, Potenciacao )
 
-#Operações matemáticas sequenciais
-#Os sinais de *, /, //, % e ** tem preferência em relação aos sinais de + e -
+#Ordem de precedência (preferência):
+#(), **, *, /, //, %, +, - nessa ordem respectivamente...
 
 #Utiliza-se o parênteses para priorizar
 OperacaoSequencial = (15+5)  * 3 // 60
@@ -32,4 +32,3 @@ print("Soma:", x, "+", y, "=", x+y)
 print("Subtração:", x, "-", y, "=", x-y)
 print("Multiplicação:", x, "*", y, "=", x*y)
 print("Divisão:", x, "/", y, "=", x/y)
-
