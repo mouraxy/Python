@@ -12,5 +12,3 @@ else:
 
 #De modo comparativo o if tem o significado de "se"
 #Por sua vez, o else tem o significado de "senão"
-
-
