@@ -9,9 +9,3 @@ else:
 
 #Neste caso, economiza-se linhas de código, porém, percebeu que faltou a faixa etária de idosos? Como resolver isso?
 #Veremos na próxima...
-
-
-
-
-
-
