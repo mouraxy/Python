@@ -1,5 +1,5 @@
 #Funções: Variáveis globais e locais
-#O Python cria cópias das variáveis presentes em funções (independentes)
+#O Python cria cópias das variáveis presentes em funções (independentes) com excessão das listas
 
 #Váriaveis locais ficam restritas em uma parte específica do programa 
 def função():
