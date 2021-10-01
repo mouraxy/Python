@@ -18,3 +18,7 @@ def Descrição(ops):
 
 #Para ativar esse recurso, utiliza-se """ texto qualquer """ para definir a descrição e help(nomeDaFunção) para exibir tal recurso
 help(Descrição)
+
+#É possível inserir funções dentro de funções
+
+#Uma função pode chamar ela mesma (pesquisar sobre recursividade)
