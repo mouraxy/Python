@@ -40,4 +40,3 @@ matematica.sin(30)
 from math import sin as seno
 
 seno(30)
-
