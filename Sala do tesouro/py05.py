@@ -7,7 +7,7 @@ Decimal = 3.1415
 #Função print normal:
 print("\nData de nascimento do Felipe: ", Dia,"/", Mes,"/", Ano)
 
-#Utilizando-se agora dos {} e o do f antes das aspas:
+#Utilizando-se agora dos {} e do f antes das aspas:
 print(f"Data de nascimento do Felipe: {Dia}/{Mes}/{Ano}")
 
 #Definindo as casas decimais com o {:.númeroDeCasasDecimaisf}
