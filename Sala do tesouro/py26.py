@@ -20,5 +20,5 @@ def Descrição(ops):
 help(Descrição)
 
 #É possível inserir funções dentro de funções
-
 #Uma função pode chamar ela mesma (pesquisar sobre recursividade)
+#Dividindo arquivos (pesquisar sobre modularização)
