@@ -10,4 +10,9 @@ print("Fim do ciclo while :)")
     #Execute 
 #Parou de ser verdadeira (fim do ciclo de repetição)
 
+#While true é utilizado para repetições infinitas
+while True:
+    print("{} até o Infinito".format(contador))
+    contador += 1
+
 #Você sabia que existe a possibilidade de usar while's dentro de outros while's? Pesquisar sobre "nested while loops"
