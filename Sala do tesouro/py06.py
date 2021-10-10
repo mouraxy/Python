@@ -1,4 +1,4 @@
-#Operadores Aritméticos
+#Operadores aritméticos
 x = 10
 y = 5
 
