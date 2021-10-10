@@ -20,7 +20,7 @@ Potenciacao = x ** y
 #Ordem de precedência (preferência):
 #(), **, *, /, //, %, +, - nesta ordem respectivamente...
 
-#Portanto, utiliza-se o parênteses para priorizar:
+#Portanto, utiliza-se parênteses para priorizar:
 print((15+5)  * 3 // 60)
 
 #Pode-se utilizar de operações na função print:
