@@ -16,4 +16,3 @@ print("Eu tenho",19,"anos")
 
 #Para pular linha utiliza-se \n
 print("Pulando \nlinha")
-
