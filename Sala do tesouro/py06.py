@@ -10,7 +10,7 @@ Subtracao = x - y
 Multiplicacao = x * y
 #Divisão (/)
 Divisao = x/y
-#Divisão inteira(//)
+#Divisão inteira (//)
 DivisaoInteira = x // y
 #Resto da divisão (%)
 Resto = x % y
