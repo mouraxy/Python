@@ -1,4 +1,4 @@
-#Statements: Break e Continue
+#Statements: break e continue
 #São utilizados em ciclos de repetição (while e for)
 
 #Break ---> parar ou interromper
