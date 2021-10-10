@@ -20,14 +20,15 @@ arquivoEscrita.writelines(["Inserindo ", "palavras"])
 #Fechando o arquivo (sempre é necessário):
 arquivoEscrita.close()
 
+
 #                nome do arquivo, modo de leitura
 arquivoLeitura = open("Olá arquivo.txt", "r")
 
-#Método read(): retorna todos elementos do arquivo em uma única string
-print(arquivoLeitura.read())
+#Método read(número de bytes): retorna todos elementos do arquivo em uma única string
+print(arquivoLeitura.read(4))
 
 #Método readlines(): retorna todos elementos do arquivo, colocando cada linha em um índice de uma lista
-#print(arquivoLeitura.readlines())
+print(arquivoLeitura.readlines())
 
 #O Python relembra o local em que ele parou de ler!
 
@@ -38,3 +39,5 @@ arquivoEscrita.close()
 #                nome do arquivo, modo de adicionar
 arquivoAdicionar = open("Olá arquivo.txt", "a")
 arquivoAdicionar.write("\nAdicionando mais elementos em um arquivo criado anteriormente!")
+
+arquivoAdicionar.close()
