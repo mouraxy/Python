@@ -1,6 +1,4 @@
-#Operações matemáticas
-
-#Declaração dos valores
+#Operadores Aritméticos
 x = 10
 y = 5
 
@@ -17,18 +15,19 @@ DivisaoInteira = x // y
 #Resto da divisão (%)
 Resto = x % y
 #Potênciação (**)
-Potenciacao = x * y
-print(Soma, Subtracao, Multiplicacao, Divisao, DivisaoInteira, Resto, Potenciacao )
+Potenciacao = x ** y
 
 #Ordem de precedência (preferência):
-#(), **, *, /, //, %, +, - nessa ordem respectivamente...
+#(), **, *, /, //, %, +, - nesta ordem respectivamente...
 
-#Utiliza-se o parênteses para priorizar
-OperacaoSequencial = (15+5)  * 3 // 60
-print (OperacaoSequencial)
+#Portanto, utiliza-se o parênteses para priorizar:
+print((15+5)  * 3 // 60)
 
-#Pode-se utilizar operações na função print 
-print("Soma:", x, "+", y, "=", x+y)
-print("Subtração:", x, "-", y, "=", x-y)
-print("Multiplicação:", x, "*", y, "=", x*y)
-print("Divisão:", x, "/", y, "=", x/y)
+#Pode-se utilizar de operações na função print:
+print(f"Soma: {x + y}")
+print(f"Subtração: {x - y}")
+print(f"Multiplicação: {x * y}")
+print(f"Divisão: {x / y}")
+print(f"Divisão inteira: {x // y}")
+print(f"Potenciação: {x ** y}")
+print(f"Resto: {x % y}")
