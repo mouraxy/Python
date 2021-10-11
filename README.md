@@ -48,7 +48,7 @@ Formatações e detalhamentos da função print e input: _`f-strings, end, type(
 ## Operadores aritméticos
 Operações matemáticas presentes na linguagem, assim como suas ordens de precedência: _`adição, subtração, multiplicação, divisão, divisão inteira, potenciação e resto da divisão.`_
 
-![image](https://user-images.githubusercontent.com/84820517/136716519-a005b23b-de38-437f-b80b-16f6f8d73787.png)
+![Animação](https://user-images.githubusercontent.com/84820517/136717150-c842363b-70e9-4f87-859f-254079a3046f.gif)
 
 * Veja o repositório completo em [Operadores](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py06.py)
 </br>
