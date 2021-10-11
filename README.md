@@ -22,6 +22,8 @@
       <li><a href="#formatação">Formatação</a></li>
       <li><a href="#operadores">Operadores aritméticos</a></li>
       <li><a href="#inequações">Comparações</a></li>
+      <li><a href="#booleano">Tipo booleano</a></li>
+      <li><a href="#ifElse">If-else</a></li>
     </ol>
 </details>
 
@@ -55,6 +57,8 @@ Especificações da _`função print`_ (saída de dados).
 ## Comentários
 Comentários em Python.
 </br>
+
+![image](https://user-images.githubusercontent.com/84820517/136845485-bb818fbf-fd55-4588-8de9-83ef460c812a.png)
 
 * Veja o repositório completo em [Comentários](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py02.py)
 </br>
@@ -103,3 +107,22 @@ Demonstração dos sinais lógicos comparativos presentes na linguagem: _`iguald
 
 * Veja o repositório completo em [Comparações](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py07.py)
 </br>
+
+<div id="booleano"></div>
+
+## Tipo booleano
+Especificação do tipo de dado _`booleano`_ (representando os seus dois estados possíveis).
+</br>
+
+* Veja o repositório completo em [Booleano](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py08.py)
+</br>
+
+<div id="ifElse"></div>
+
+## If-else
+Apresentação da estrutura condicional _`if-else`_ e seus caminhos de decisão.
+</br>
+
+* Veja o repositório completo em [If-else](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py09.py)
+</br>
+
