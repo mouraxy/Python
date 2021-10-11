@@ -15,15 +15,20 @@
 <details>
   <summary>Tópicos</summary>
     <ol>
+      <li><a href="#print">Função print</a></li>
+      <li><a href="#comentarios">Comentários</a></li>
+      <li><a href="#variaveis">Variáveis</a></li>
+      <li><a href="#input">Função input</a></li>
       <li><a href="#formatação">Formatação</a></li>
       <li><a href="#operadores">Operadores aritméticos</a></li>
+      <li><a href="#inequações">Comparações</a></li>
     </ol>
 </details>
 
 
 <!-- SOBRE O PROJETO -->
 ## Sobre o projeto
-Para construção e compartilhamento do conhecimento de forma acessível e rápida, surgiu a ideia de construir e documentar todos os principais tópicos dessa linguagem de programação baseado em sua documentação padrão.  `Espero que gostem!!`
+Para construção e compartilhamento do conhecimento de forma acessível e ampla, surgiu a ideia de construir e documentar todos os principais tópicos dessa linguagem de programação baseado em sua documentação padrão.  `Espero que gostem!!`
 </br>
 </br>
 
@@ -33,12 +38,50 @@ Para construção e compartilhamento do conhecimento de forma acessível e rápi
 * Muito amor e dedicação
 </br>
 
+<div id="print"></div>
+
+## Função print
+Especificações da _`função print`_ (saída de dados).
+</br>
+
+![image](https://user-images.githubusercontent.com/84820517/136837575-dab6e374-7290-48c7-9659-7839c5731cc7.png)
+
+
+* Veja o repositório completo em [Função print](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py01.py)
+</br>
+
+<div id="comentarios"></div>
+
+## Comentários
+Comentários em Python.
+</br>
+
+* Veja o repositório completo em [Comentários](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py02.py)
+</br>
+
+<div id="variaveis"></div>
+
+## Variáveis
+O que são _`variáveis?`_ Para que servem? E quais são suas regras de declaração?
+</br>
+
+* Veja o repositório completo em [Variáveis](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py03.py)
+</br>
+
+<div id="input"></div>
+
+## Função input
+Especificações da _`função input`_ (entrada de dados).
+</br>
+
+* Veja o repositório completo em [Função input](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py04.py)
+</br>
+
 <div id="formatação"></div>
 
 ## Formatação
 Formatações e detalhamentos da função print e input: _`f-strings, end, type() e is().`_
-
-![image](https://user-images.githubusercontent.com/84820517/136716083-225dc953-0329-4ced-8bdf-e40e43aae57f.png)
+</br>
 
 * Veja o repositório completo em [Formatação](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py05.py)
 </br>
@@ -47,8 +90,16 @@ Formatações e detalhamentos da função print e input: _`f-strings, end, type(
 
 ## Operadores aritméticos
 Operações matemáticas presentes na linguagem, assim como suas ordens de precedência: _`adição, subtração, multiplicação, divisão, divisão inteira, potenciação e resto da divisão.`_
-
-![Animação](https://user-images.githubusercontent.com/84820517/136717150-c842363b-70e9-4f87-859f-254079a3046f.gif)
+</br>
 
 * Veja o repositório completo em [Operadores](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py06.py)
+</br>
+
+<div id="inequações"></div>
+
+## Comparações 
+Demonstração dos sinais lógicos comparativos presentes na linguagem: _`igualdade, maior que, menor que, maior igual que, menor igual que e diferente de.`_
+</br>
+
+* Veja o repositório completo em [Comparações](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py07.py)
 </br>
