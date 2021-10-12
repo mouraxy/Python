@@ -1,4 +1,6 @@
 <!-- PYTHON -->
+<div id="top"></div>
+
 <br />
   <div align="center">
     <img src="https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" alt="Logo" width="140" height="140">
@@ -28,10 +30,18 @@
       <li><a href="#compM">Elif</a></li>
       <li><a href="#opLog">Operadores lógicosr</a></li>
       <li><a href="#whfor">While e for</a></li>
-      <li><a href="#float">Float</a></li>
+      <li><a href="#float">Tipo float</a></li>
       <li><a href="#math">Módulo math</a></li>
        <li><a href="#rand">Módulo random</a></li>
       <li><a href="#listas">Listas</a></li>
+      <li><a href="#funcoes">Funções</a></li>
+      <li><a href="#break">Break e continue</a></li>
+      <li><a href="#strings">Tipo string</a></li>
+      <li><a href="#arquivos">Arquivos</a></li>
+      <li><a href="#exce">Exceções</a></li>
+      <li><a href="#time">Módulo time</a></li>
+      <li><a href="#sys">Módulo sys</a></li>
+      <li><a href="#os">Módulo os</a></li>
     </ol>
 </details>
 
@@ -202,11 +212,90 @@ Especificações da biblioteca _`random`_.
 Detalhamentos, métodos e exemplificações sobre _`listas`_. 
 </br>
 
-![image](https://user-images.githubusercontent.com/84820517/137022748-fa61d74e-1db7-492f-952e-9e7552e4b1da.png)
+![image](https://user-images.githubusercontent.com/84820517/137037943-a2933d94-d3cd-4b07-a903-477ff35106b9.png)
 
 * Introdução e método _`slice`_ em [Introdução sobre listas](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py18.py)
 * Adicionando elementos com o método _`append`_ em [Adicionar elementos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py19.py)
 * Tamanho e quantidade com a função _`len`_ e método _`count`_ em [Len e count](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py20.py)
 * Invertendo e removendo elementos com os métodos _`reverse e remove`_ em [Reverse e remove](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py21.py)
-* Função _`list`_ e métodos _`pop, index, insert, sort, copy e clear`_ em [Métodos adicionais](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py21.py)
+* Função _`list`_ e métodos _`pop, index, insert, sort, copy e clear`_ em [Métodos adicionais](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py22.py)
 </br>
+
+<div id="funcoes"></div>
+
+## Funções
+Detalhamentos e exemplificações sobre _`funções`_. 
+</br>
+
+* Introdução e exemplos em [Introdução sobre funções](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py23.py)
+* Caracterizações sobre os argumentos em [Argumentos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py24.py)
+* _`Variáveis locais e globais`_ em [Variável global e local](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py25.py)
+* _`Recursividade, modularização, nomenclatura e descrição`_ em [Descrição](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py26.py)
+</br>
+
+<div id="break"></div>
+
+## Statements break e continue
+Detalhamentos e exemplificações sobre os _`statements break e continue`_. 
+</br>
+
+* Veja o repositório completo em [Break e continue](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py27.py)
+</br>
+
+<div id="strings"></div>
+
+## Tipo string
+Especificação do tipo de dado _`string`_ (representando as cadeias de texto).
+</br>
+
+* Introdução e exemplos em [Introdução sobre strings](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py28.py)
+* Definição do sistema codificador ASCII em [ASCII](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py29.py)
+* Operador _`in`_ e métodos _`len, count, replace, upper, lower, capitalize, title, strip e split`_ em [Métodos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py30.py)
+</br>
+
+<div id="arquivos"></div>
+
+## Arquivos
+Utilizando arquivos externos e seu métodos adjunto ao Python.
+</br>
+
+* Veja o repositório completo em [Arquivos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py31.py)
+</br>
+
+<div id="exce"></div>
+
+## Exceções
+Apresentação das exceções ou tratamento de erros levantados em Python (_`try, except e finally`_).
+</br>
+
+* Veja o repositório completo em [Exceções](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py32.py)
+</br>
+
+<div id="time"></div>
+
+## Módulo time
+Especificações da biblioteca _`time`_.
+</br>
+
+* Veja o repositório completo em [Time](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py33.py)
+</br>
+
+<div id="sys"></div>
+
+## Módulo sys
+Especificações da biblioteca _`sys`_.
+</br>
+
+* Veja o repositório completo em [Sys](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py34.py)
+</br>
+
+<div id="os"></div>
+
+## Módulo os
+Especificações da biblioteca _`os`_.
+</br>
+
+* Veja o repositório completo em [Os](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py35.py)
+</br>
+
+<p align="right"><a href="#top">Voltar para o topo</a></p>
