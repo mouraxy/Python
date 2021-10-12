@@ -30,6 +30,8 @@
       <li><a href="#whfor">While e for</a></li>
       <li><a href="#float">Float</a></li>
       <li><a href="#math">Módulo math</a></li>
+       <li><a href="#rand">Módulo random</a></li>
+      <li><a href="#listas">Listas</a></li>
     </ol>
 </details>
 
@@ -183,4 +185,28 @@ Especificações das bibliotecas nos scripts em Python (importando _`math`_).
 </br>
 
 * Veja o repositório completo em [Math](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py16.py)
+</br>
+
+<div id="rand"></div>
+
+## Módulo random
+Especificações da biblioteca _`random`_.
+</br>
+
+* Veja o repositório completo em [Random](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py17.py)
+</br>
+
+<div id="listas"></div>
+
+## Listas
+Detalhamentos, métodos e exemplificações sobre _`listas`_. 
+</br>
+
+![image](https://user-images.githubusercontent.com/84820517/137022748-fa61d74e-1db7-492f-952e-9e7552e4b1da.png)
+
+* Introdução e método _`slice`_ em [Introdução sobre listas](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py18.py)
+* Adicionando elementos com o método _`append`_ em [Adicionar elementos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py19.py)
+* Tamanho e quantidade com a função _`len`_ e método _`count`_ em [Len e count](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py20.py)
+* Invertendo e removendo elementos com os métodos _`reverse e remove`_ em [Reverse e remove](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py21.py)
+* Função _`list`_ e métodos _`pop, index, insert, sort, copy e clear`_ em [Métodos adicionais](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py21.py)
 </br>
