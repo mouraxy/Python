@@ -24,6 +24,12 @@
       <li><a href="#inequações">Comparações</a></li>
       <li><a href="#booleano">Tipo booleano</a></li>
       <li><a href="#ifElse">If-else</a></li>
+      <li><a href="#compM">Comparações múltiplas</a></li>
+      <li><a href="#compM">Elif</a></li>
+      <li><a href="#opLog">Operadores lógicosr</a></li>
+      <li><a href="#whfor">While e for</a></li>
+      <li><a href="#float">Float</a></li>
+      <li><a href="#math">Módulo math</a></li>
     </ol>
 </details>
 
@@ -46,9 +52,6 @@ Para construção e compartilhamento do conhecimento de forma acessível e ampla
 Especificações da _`função print`_ (saída de dados).
 </br>
 
-![image](https://user-images.githubusercontent.com/84820517/136837575-dab6e374-7290-48c7-9659-7839c5731cc7.png)
-
-
 * Veja o repositório completo em [Função print](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py01.py)
 </br>
 
@@ -57,8 +60,6 @@ Especificações da _`função print`_ (saída de dados).
 ## Comentários
 Comentários em Python.
 </br>
-
-![image](https://user-images.githubusercontent.com/84820517/136845485-bb818fbf-fd55-4588-8de9-83ef460c812a.png)
 
 * Veja o repositório completo em [Comentários](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py02.py)
 </br>
@@ -126,3 +127,60 @@ Apresentação da estrutura condicional _`if-else`_ e seus caminhos de decisão.
 * Veja o repositório completo em [If-else](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py09.py)
 </br>
 
+<div id="compM"></div>
+
+## Comparações múltiplas
+Utilização simultânea dos sinais comparativos.
+</br>
+
+![image](https://user-images.githubusercontent.com/84820517/136864354-89b4c465-5e0a-4a6e-a03e-bda376ae07b4.png)
+
+* Veja o repositório completo em [Comparações múltiplas](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py10.py)
+</br>
+
+<div id="Elif"></div>
+
+## Elif
+Exemplificação sobre a instrução  _`elif`_.
+</br>
+
+* Veja o repositório completo em [Elif](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py11.py)
+</br>
+
+<div id="opLog"></div>
+
+## Operadores lógicos
+Semelhante às comparações e com diversas possibilidades de implementação, surge os operadores lógicos: _`and, or e not`_.
+</br>
+
+![image](https://user-images.githubusercontent.com/84820517/136864579-b6893d81-b6dd-4f1b-862b-3325d50e116d.png)
+
+* Veja o repositório completo em [Operadores lógicos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py12.py)
+</br>
+
+<div id="whfor"></div>
+
+## Estruturas de repetição
+Apresentação das estruturas de repetição _`while e for`_ além dos seus respectivos caminhos de decisão.
+</br>
+
+* Veja o repositório completo em [While](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py13.py) e [For](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py14.py)
+</br>
+
+<div id="float"></div>
+
+## Tipo float
+Especificação do tipo de dado _`float`_ (representando os números reais).
+</br>
+
+* Veja o repositório completo em [Float](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py15.py)
+</br>
+
+<div id="math"></div>
+
+## Módulo math
+Especificações das bibliotecas nos scripts em Python (importando _`math`_).
+</br>
+
+* Veja o repositório completo em [Math](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py16.py)
+</br>
