@@ -28,4 +28,7 @@ print(os.urandom(5))
 #Apresentar o nome do usuário:
 print(os.environ['USERNAME'])
 
+#system("cls"): limpa os terminais Windows:
+os.system("cls")
+
 #O módulo os.path possuí variadas características próprias envolvendo diretórios (pesquisar sobre)
