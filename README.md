@@ -64,6 +64,10 @@ Para construção e compartilhamento do conhecimento de forma acessível e ampla
 Especificações da _`função print`_ (saída de dados).
 </br>
 
+ ```js
+ print("Olá mundo!")
+ ```
+
 * Veja o repositório completo em [Função print](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py01.py)
 </br>
 
@@ -72,6 +76,10 @@ Especificações da _`função print`_ (saída de dados).
 ## Comentários
 Comentários em Python.
 </br>
+
+ ```sh
+#Isso é um exemplo de comentário...
+ ```
 
 * Veja o repositório completo em [Comentários](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py02.py)
 </br>
@@ -90,6 +98,10 @@ O que são _`variáveis?`_ Para que servem? E quais são suas regras de declara�
 ## Função input
 Especificações da _`função input`_ (entrada de dados).
 </br>
+
+```js
+ input("Digite algo: ")
+ ```
 
 * Veja o repositório completo em [Função input](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py04.py)
 </br>
@@ -145,7 +157,9 @@ Apresentação da estrutura condicional _`if-else`_ e seus caminhos de decisão.
 Utilização simultânea dos sinais comparativos.
 </br>
 
-![image](https://user-images.githubusercontent.com/84820517/136864354-89b4c465-5e0a-4a6e-a03e-bda376ae07b4.png)
+ ```js
+ if 18 <= idade < 60:
+ ```
 
 * Veja o repositório completo em [Comparações múltiplas](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py10.py)
 </br>
@@ -165,7 +179,9 @@ Exemplificação sobre a instrução  _`elif`_.
 Semelhante às comparações e com diversas possibilidades de implementação, surge os operadores lógicos: _`and, or e not`_.
 </br>
 
-![image](https://user-images.githubusercontent.com/84820517/136864579-b6893d81-b6dd-4f1b-862b-3325d50e116d.png)
+ ```js
+if Idade >= 18 and Idade <= 60: 
+ ```
 
 * Veja o repositório completo em [Operadores lógicos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py12.py)
 </br>
@@ -212,13 +228,15 @@ Especificações da biblioteca _`random`_.
 Detalhamentos, métodos e exemplificações sobre _`listas`_. 
 </br>
 
-![image](https://user-images.githubusercontent.com/84820517/137037943-a2933d94-d3cd-4b07-a903-477ff35106b9.png)
+ ```js
+ lista = [1, 2, 3]
+ ```
 
-* Introdução e método _`slice`_ em [Introdução sobre listas](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py18.py)
-* Adicionando elementos com o método _`append`_ em [Adicionar elementos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py19.py)
-* Tamanho e quantidade com a função _`len`_ e método _`count`_ em [Len e count](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py20.py)
-* Invertendo e removendo elementos com os métodos _`reverse e remove`_ em [Reverse e remove](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py21.py)
-* Função _`list`_ e métodos _`pop, index, insert, sort, copy e clear`_ em [Métodos adicionais](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py22.py)
+* [Introdução e método slice](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py18.py)
+* [Adicionando elementos com o método Append](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py19.py)
+* [Tamanho e quantidade com a função len e método count](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py20.py)
+* [Invertendo e removendo elementos com os métodos reverse e remove](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py21.py)
+* [Função list e métodos pop, index, insert, sort, copy e clear](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py22.py)
 </br>
 
 <div id="funcoes"></div>
@@ -227,10 +245,14 @@ Detalhamentos, métodos e exemplificações sobre _`listas`_.
 Detalhamentos e exemplificações sobre _`funções`_. 
 </br>
 
-* Introdução e exemplos em [Introdução sobre funções](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py23.py)
-* Caracterizações sobre os argumentos em [Argumentos](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py24.py)
-* _`Variáveis locais e globais`_ em [Variável global e local](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py25.py)
-* _`Recursividade, modularização, nomenclatura e descrição`_ em [Descrição](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py26.py)
+```js
+ def nomeDaFunção(arg):
+ ```
+
+* [Introdução e exemplos sobre funções](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py23.py)
+* [Argumentos variáveis](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py24.py)
+* [Variáveis globais e locais](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py25.py)
+* [Recursividade, modularização, nomenclatura e descrição](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py26.py)
 </br>
 
 <div id="break"></div>
@@ -277,6 +299,10 @@ Apresentação das exceções ou tratamento de erros levantados em Python (_`try
 Especificações da biblioteca _`time`_.
 </br>
 
+```js
+ time.sleep()
+ ```
+
 * Veja o repositório completo em [Time](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py33.py)
 </br>
 
@@ -295,6 +321,10 @@ Especificações da biblioteca _`sys`_.
 Especificações da biblioteca _`os`_.
 </br>
 
+```js
+ os.system("cls")
+ ```
+ 
 * Veja o repositório completo em [Os](https://github.com/mouraxy/Python/blob/main/Sala%20do%20tesouro/py35.py)
 </br>
 
