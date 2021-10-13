@@ -32,7 +32,7 @@ print(frase.replace('Esse', 'Trocou'))
 #Método upper(): coloca os caracteres em letra maiúscula
 print(frase.upper())
 
-#Método upper(): coloca os caracteres em letra minúscula
+#Método lower(): coloca os caracteres em letra minúscula
 print(frase.lower())
 
 #Método capitalize(): coloca o primeiro caractere em letra maiúscula
