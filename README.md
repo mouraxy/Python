@@ -1,4 +1,10 @@
 <p align="right">66% concluído</p>
+<!-- PRÓXIMOS TÓPICOS -->
+<!-- DICIONÁRIOS -->
+<!-- TUPLAS -->
+<!-- PERSONALIZAÇÃO TERMINAL -->
+<!-- THREADS E PROCESSAMENTO -->
+<!-- POO -->
 
 <!-- PYTHON -->
 <div id="top"></div>
